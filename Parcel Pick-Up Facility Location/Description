@@ -1,9 +1,0 @@
-Use the following data to select 10 most populous neighborhoods in Atlanta and their population and coordinates: https://en.wikipedia.org/wiki/Table_of_Atlanta_neighborhoods_by_populationLinks to an external site.
-
-Choose a location for a parcel pick up facility that minimizes total travel time (one way to the pick up point) for people in these neighborhoods. Use the (1) haversine distance and (2) driving distance. Find the addresses, show them on a map and compare the results.
-
-Upload your results as (i) text (2 addresses of the locations) and (ii) link to your notebook on Github (make sure it's on your public repository, so that I and TAs can access it).
-
-Note: this is a group assignment, enter your group into "Project group" Group set on Canvas.
-
-Note2: Minimizing distance would be a perfectly acceptable solution. If you want to challenge yourself you may look into estimating travel time, in general, or depending on the time of the day. For that there is a more sophisticated version of the Maps API - https://developers.google.com/maps/documentation/routesLinks to an external site.
